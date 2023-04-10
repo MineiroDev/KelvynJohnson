@@ -2,10 +2,13 @@
 
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvyn-c%C3%A2ndido-528278173)
 
 
-[![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson)](https://github.com/KelvynJohnson/github-readme-stats)
+
+![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynJohnson&layout=compact&theme=radical)](https://github.com/KelvynJohn/github-readme-stats)
+
 
 
 ## Tecnologias que venho estudando.
@@ -21,9 +24,12 @@
 <img align="center" alt="Kelvyn-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div><br> 
 
+
+
 Sou apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 Contato: 
 
 <a href = "mailto:dev.kelvynjohnson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "mailto:kelvyn.candido@gmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=blue" target="_blank"></a>
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvyn-c%C3%A2ndido-528278173)
