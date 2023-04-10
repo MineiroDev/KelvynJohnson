@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvyn-c%C3%A2ndido-528278173)
 
 
-![KelvynJohnson GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson&show_icons=true&theme=onedark)
+[![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson)](https://github.com/KelvynJohnson/github-readme-stats)
 
 
 ## Tecnologias que venho estudando.
