@@ -5,9 +5,9 @@
 
 
 
-![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson&show_icons=true&theme=radical)
+![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=KelvynJohnson&&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynJohnson&layout=compact&theme=radical)](https://github.com/KelvynJohn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynJohnson&&theme=radical)](https://github.com/KelvynJohnson/github-readme-stats)
 
 
 
