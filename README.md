@@ -3,14 +3,11 @@
 
 
 
-
-![Kelvyn GitHub stats](https://github-readme-stats.vercel.app/api?username=MineiroDev&&theme=radical)
+## Tecnologias que venho estudando.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineiroDev&&theme=radical)](https://github.com/KelvynJohnson/github-readme-stats)
 
 
-
-## Tecnologias que venho estudando.
 
 <div>
 <img align="center" alt="Kelvyn-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"><img align="center" alt="Kelvyn-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
