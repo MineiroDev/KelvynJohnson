@@ -5,7 +5,7 @@
 
 ## Tecnologias que venho estudando.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineiroDev&&theme=radical)](https://github.com/KelvynAmaral/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynAmaral&&theme=radical)](https://github.com/KelvynAmaral/github-readme-stats)
 
 
 
