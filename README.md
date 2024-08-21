@@ -11,10 +11,10 @@ Sigo explorando as ferramentas e tecnologias que me permitirão containerizar mi
 Acredito na colaboração entre as equipes de desenvolvimento e operação como chave para o sucesso de projetos.  
 
 #### 🧩Curriculo acadêmico
-Graduado em Analise e Deseonvolvimento de Sistemas - UNIBH
-Cursando PÓS Graduação em Arquitetura de Software com ênfase para desenvolvimento JAVA - FIAP - Formação prevista 01/12/2024
-Curasndo 2º Graduação em Ciência de Dados - Universidade São Judas Tadeus 01/12/2025
 
+Graduado em Analise e Deseonvolvimento de Sistemas - UNIBH.\
+Cursando PÓS Graduação em Arquitetura de Software com ênfase para desenvolvimento JAVA - FIAP - Formação prevista 01/12/2024.\
+Cursando 2º Graduação em Ciência de Dados - Universidade São Judas Tadeus 01/12/2025.\
 
 ## 🛠 Habilidades
 
