@@ -2,23 +2,18 @@
 # Olá, eu sou o Kelvyn! 👋  
 
 
-
-
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor back-end apaixonado por criar soluções robustas e escaláveis.  
-
-Possuo expertise em Java e Spring Boot, e estou sempre buscando aprimorar minhas habilidades com novas tecnologias como Docker, Kubernetes e Google Cloud.  
+Possuo expertise em Java e Spring Boot, e estou sempre buscando aprimorar minhas habilidades com novas tecnologias como Docker, Kubernetes e AWS.  
 Sigo explorando as ferramentas e tecnologias que me permitirão containerizar minhas aplicações, gerenciar clusters e implementar soluções em nuvem.  
 
 #### Cultura DevOps.
 Acredito na colaboração entre as equipes de desenvolvimento e operação como chave para o sucesso de projetos.  
 
-#### 🧩 Filosofia, História e Literatura.
-Além do meu engajamento no universo tecnológico, tenho paixão por explorar temas mais amplos, 
-incluindo filosofia, história e literatura, ampliando assim meu repertório e visão de mundo.  
-
-
+#### 🧩Curriculo acadêmico
+Graduado em Analise e Deseonvolvimento de Sistemas - UNIBH
+Cursando PÓS Graduação em Arquitetura de Software com ênfase para desenvolvimento JAVA - FIAP - Formação prevista 01/12/2024
+Curasndo 2º Graduação em Ciência de Dados - Universidade São Judas Tadeus 01/12/2025
 
 
 ## 🛠 Habilidades
